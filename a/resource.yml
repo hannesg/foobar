@@ -4,4 +4,4 @@ data:
 kind: ConfigMap
 metadata:
   name: foo
-  namespace: argocd
+  namespace: argocf
